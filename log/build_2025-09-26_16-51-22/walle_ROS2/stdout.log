@@ -1,0 +1,47 @@
+running egg_info
+creating build/walle_ROS2/walle_ROS2.egg-info
+writing build/walle_ROS2/walle_ROS2.egg-info/PKG-INFO
+writing dependency_links to build/walle_ROS2/walle_ROS2.egg-info/dependency_links.txt
+writing entry points to build/walle_ROS2/walle_ROS2.egg-info/entry_points.txt
+writing requirements to build/walle_ROS2/walle_ROS2.egg-info/requires.txt
+writing top-level names to build/walle_ROS2/walle_ROS2.egg-info/top_level.txt
+writing manifest file 'build/walle_ROS2/walle_ROS2.egg-info/SOURCES.txt'
+reading manifest file 'build/walle_ROS2/walle_ROS2.egg-info/SOURCES.txt'
+writing manifest file 'build/walle_ROS2/walle_ROS2.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build
+creating /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib
+creating /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib/walle_ROS2
+copying walle_ROS2/voice_listener.py -> /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib/walle_ROS2
+copying walle_ROS2/main_controller_2.py -> /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib/walle_ROS2
+copying walle_ROS2/__init__.py -> /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib/walle_ROS2
+copying walle_ROS2/chatgpt_processor.py -> /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib/walle_ROS2
+copying walle_ROS2/main_controller_1.py -> /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib/walle_ROS2
+running install
+running install_lib
+creating /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2
+copying /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib/walle_ROS2/voice_listener.py -> /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2
+copying /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib/walle_ROS2/main_controller_2.py -> /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2
+copying /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib/walle_ROS2/__init__.py -> /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2
+copying /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib/walle_ROS2/chatgpt_processor.py -> /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2
+copying /home/george/new_ws/src/walle_ROS2/build/walle_ROS2/build/lib/walle_ROS2/main_controller_1.py -> /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2
+byte-compiling /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2/voice_listener.py to voice_listener.cpython-310.pyc
+byte-compiling /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2/main_controller_2.py to main_controller_2.cpython-310.pyc
+byte-compiling /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2/chatgpt_processor.py to chatgpt_processor.cpython-310.pyc
+byte-compiling /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2/main_controller_1.py to main_controller_1.cpython-310.pyc
+running install_data
+creating /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/share/ament_index
+creating /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/share/ament_index/resource_index
+creating /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/share/ament_index/resource_index/packages
+copying resource/walle_ROS2 -> /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/share/ament_index/resource_index/packages
+copying package.xml -> /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/share/walle_ROS2
+running install_egg_info
+Copying build/walle_ROS2/walle_ROS2.egg-info to /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/python3.10/site-packages/walle_ROS2-0.1.0-py3.10.egg-info
+running install_scripts
+Installing chatgpt_processor script to /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/walle_ROS2
+Installing main_controller_1 script to /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/walle_ROS2
+Installing main_controller_2 script to /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/walle_ROS2
+Installing voice_listener script to /home/george/new_ws/src/walle_ROS2/install/walle_ROS2/lib/walle_ROS2
+writing list of installed files to '/home/george/new_ws/src/walle_ROS2/build/walle_ROS2/install.log'

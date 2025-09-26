@@ -1,0 +1,7 @@
+numpy
+openai
+rclpy
+scipy
+setuptools
+sounddevice
+std_msgs

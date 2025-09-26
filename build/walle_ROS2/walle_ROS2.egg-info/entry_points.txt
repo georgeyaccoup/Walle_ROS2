@@ -1,0 +1,6 @@
+[console_scripts]
+chatgpt_processor = walle_ROS2.chatgpt_processor:main
+main_controller_1 = walle_ROS2.main_controller_1:main
+main_controller_2 = walle_ROS2.main_controller_2:main
+voice_listener = walle_ROS2.voice_listener:main
+
